@@ -1,2 +1,2 @@
 # TestGithub
-GitHub Demo from me
+GitHub is a repository for showing bear minimums for GitHub.
